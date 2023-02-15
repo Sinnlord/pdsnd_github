@@ -26,7 +26,7 @@ def get_filters():
                 print("Thank you!")
                 break
             else:
-                print("Sorry, I didn't understand that,try again")
+                print("Sorry, I didn't understand that, please try again")
                 continue
             
 
